@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Drawing of Me](https://i.graphicmama.com/uploads/2019/3/5c813ece1ee2b-cartoon-girl-with-short-hair.png)
